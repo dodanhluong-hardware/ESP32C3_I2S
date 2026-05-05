@@ -1,7 +1,9 @@
 <!DOCTYPE SaveWorkspaceState>
 <SaveWorkspaceState>
     <Windows>
-        <Schematic height="1001" view="schematic" y1="-9" geom="1,0,2,205,238,1536,712,1920,1080" lib="MyLibrary_lib" cell="Version1" width="1920" x1="-9"/>
+        <Schematic view="schematic" x1="-9" width="1920" cell="Version1" geom="1,0,2,205,238,1536,712,1920,1080" lib="MyLibrary_lib" height="1001" y1="-9"/>
+        <Layout view="layout" x1="-9" width="1920" cell="Version1" geom="1,0,3,349,222,1536,824,1920,1080" lib="MyLibrary_lib" height="1001" y1="-9"/>
+        <DDS name="Version1.dds"/>
     </Windows>
     <MainWindowTab tab="1"/>
 </SaveWorkspaceState>
